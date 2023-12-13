@@ -1,4 +1,4 @@
-# COMPUTATIONAL ARCHIVAL SCIENCE (CAS)
+# Computational Archival Science (CAS) 2023
 
 8th COMPUTATIONAL ARCHIVAL SCIENCE (CAS) WORKSHOP 
 https://ai-collaboratory.net/cas/cas-workshops/2023-8th-cas-workshop/
