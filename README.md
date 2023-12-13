@@ -1,4 +1,4 @@
-# cas2023sorrento
+# COMPUTATIONAL ARCHIVAL SCIENCE (CAS)
 
 8th COMPUTATIONAL ARCHIVAL SCIENCE (CAS) WORKSHOP 
 https://ai-collaboratory.net/cas/cas-workshops/2023-8th-cas-workshop/
